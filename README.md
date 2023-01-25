@@ -8,7 +8,7 @@ Kern des Scoring Algorithmus.
 Der Hauptteil der Logik ist in den folgenden Skripten implementiert:
 
 1. api/services/userService.js
-2. frontend/src/services/ProductService
+2. frontend/src/services/ProductService.js
 
 ## Links
 
