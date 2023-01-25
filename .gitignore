@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+node_modules
+api/.env
+frontend/.env
+__pychache__
